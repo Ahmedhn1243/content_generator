@@ -1,5 +1,4 @@
 
-
 # AI-Powered Content Generator
 
 This project is an AI-Powered Content Generator web application built with Django and Python. The application allows users to generate content based on a topic and desired tone. The front end is styled using Bootstrap for a modern, responsive design, and JavaScript is used for form validation and interactivity.
